@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# files and models
+*.mp4
+*.cmd
+*.sh
+*.xml
+*.bin
+
+# Environments
+env
+.env
+.venv
+env
+venv
+
+
+
+
+
+
+
